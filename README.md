@@ -94,7 +94,27 @@ This profile will include the topics I learn, the projects I develop, and the wo
 <p align="center">
   <img src="https://raw.githubusercontent.com/Melihemrebykbs/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+<h2 align="center">🚀 Future Projects</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi&perline=4" />
+</p>
+
+<p align="center">
+  🤖 AI & Machine Learning Projects
+  <br>
+  🦾 Robotic Systems & Autonomous Robots
+  <br>
+  ⚙️ Industrial Automation Systems
+  <br>
+  🚗 Automotive Technology Projects
+  <br>
+  🔌 Embedded & IoT Systems
+</p>
+
+<p align="center">
+  <i>Turning ideas into real-world projects 🚀</i>
+</p>
 <h2 align="center">👀 Profile View</h2>
 
 <table align="center">
