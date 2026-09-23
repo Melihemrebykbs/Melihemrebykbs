@@ -44,6 +44,11 @@ This profile will include the topics I learn, the projects I develop, and the wo
 ---
 
 ⭐ Thanks for visiting my profile!
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Melihemrebykbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
