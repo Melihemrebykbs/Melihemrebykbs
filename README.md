@@ -63,7 +63,12 @@ This profile will include the topics I learn, the projects I develop, and the wo
 
 <h2 align="center">👀 Profile View</h2
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Melihemrebykbs&label=Profile%20Views&style=flat" alt="Profile Views" />
-</div>
+<h2 align="center">👀 Profile View</h2>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=Melihemrebykbs&label=Profile%20Views&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
