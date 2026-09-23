@@ -19,13 +19,9 @@ Currently, I am focusing on learning and improving my skills in programming lang
 
 ## 🛠️ Currently Learning
 
-* C / C++
-* Java
-* Python
-* Git & GitHub
-* Robotics
-* Automation
-* Mechanical Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,html,css" />
+</p>
 
 ## 🎯 My Goals
 
@@ -46,3 +42,8 @@ This profile will include the topics I learn, the projects I develop, and the wo
 ---
 
 ⭐ Thanks for visiting my profile!
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melihemrebykbs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
