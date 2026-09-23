@@ -20,7 +20,9 @@ Currently, I am focusing on learning and improving my skills in programming lang
 ## 🛠️ Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,html,css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,html,css" />
+  </a>
 </p>
 
 ## 🎯 My Goals
