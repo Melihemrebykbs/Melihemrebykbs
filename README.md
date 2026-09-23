@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+%26+Metal+Technologies+Student;Software+%7C+Robotics+%7C+Automation;C%2FC%2B%2B+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Machine+%26+Metal+Technologies+Student;Software+%7C+Robotics+%7C+Automation;C%2B%2B+%7C+Java+%7C+Python;Mechanical+Technologies+%7C+Automotive;Building+My+Skills+Step+by+Step..." alt="Typing Animation" />
 </p>
 # 👋 Hi, I'm Melih Emre BÜYÜKBAŞ
 
