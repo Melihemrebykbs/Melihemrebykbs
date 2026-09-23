@@ -53,6 +53,33 @@ Currently, I am focusing on learning and improving my skills in programming lang
 This profile will include the topics I learn, the projects I develop, and the work I create as I continue improving my skills.
 
 ---
+<h2 align="center">💻 Coding</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%3E+Initializing+Melih's+Workspace...;%3E+Loading+C%2B%2B...;%3E+Loading+Python...;%3E+Loading+Artificial+Intelligence...;%3E+Loading+Robotics+Systems...;%3E+Loading+Automation...;%3E+System+Ready+%E2%9C%93" alt="Coding Animation" />
+</p>
+
+<h2 align="center">🧠 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,tensorflow,pytorch&perline=6" />
+</p>
+
+<p align="center">
+  🤖 Artificial Intelligence &nbsp; • &nbsp;
+  🦾 Robotics &nbsp; • &nbsp;
+  ⚙️ Automation
+</p>
+
+<p align="center">
+  🔌 Embedded Systems &nbsp; • &nbsp;
+  🧠 Machine Learning &nbsp; • &nbsp;
+  🚀 Future Projects
+</p>
+
+<p align="center">
+  <i>Learning • Building • Improving</i>
+</p>
 
 ⭐ Thanks for visiting my profile!
 
