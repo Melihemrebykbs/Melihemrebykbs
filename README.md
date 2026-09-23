@@ -47,7 +47,5 @@ This profile will include the topics I learn, the projects I develop, and the wo
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melihemrebykbs&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Melihemrebykbs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
