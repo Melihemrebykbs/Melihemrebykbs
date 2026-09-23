@@ -23,14 +23,17 @@ Currently, I am focusing on learning and improving my skills in programming lang
 
 ## 🛠️ Currently Learning
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2 align="center">🛠️ Technologies & Interests</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,html,css,arduino,raspberrypi&perline=9" />
 </p>
 
 <p align="center">
-  <b>C++</b> • <b>Java</b> • <b>Python</b> • <b>Git</b> • <b>GitHub</b> • <b>HTML</b> • <b>CSS</b>
+  🤖 Artificial Intelligence &nbsp; • &nbsp;
+  🦾 Robotics &nbsp; • &nbsp;
+  ⚙️ Automation &nbsp; • &nbsp;
+  🔌 Embedded Systems
 </p>
 
 ## 🎯 My Goals
