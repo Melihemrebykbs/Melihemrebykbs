@@ -55,4 +55,10 @@ This profile will include the topics I learn, the projects I develop, and the wo
   <img src="https://streak-stats.demolab.com?user=Melihemrebykbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Melihemrebykbs/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
