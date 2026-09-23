@@ -61,7 +61,7 @@ This profile will include the topics I learn, the projects I develop, and the wo
   <img src="https://raw.githubusercontent.com/Melihemrebykbs/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-👀 Profile View
+<h2 align="center">👀 Profile View</h2
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Melihemrebykbs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
